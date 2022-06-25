@@ -1,3 +1,5 @@
 Day 2
 
 https://www.kaggle.com/code/devashishguliya/co2-emissions-lr
+
+Linear regression was implemented on CO2 emission dataset to predict emissions.
